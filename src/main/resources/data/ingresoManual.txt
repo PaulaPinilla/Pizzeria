@@ -1,0 +1,10 @@
+
+---------------------------
+ ---       Pizzeria      ---
+ ---------------------------
+ Comandos disponibles:
+ 
+ 	RECIBIR <Primer Nombre> <Precio> <Cercania (1-5)>
+ 	ATENDER
+ 	DESPACHAR
+ 	SALIR
